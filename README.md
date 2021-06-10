@@ -1,7 +1,6 @@
 # SentimentAnalysis_with_TextBlob
 A template for sentiment analysis with the library TextBlob
 
-# -*- coding: utf-8 -*-
 """
 Created on Wed Oct 14 13:03:54 2020
 
