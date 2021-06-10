@@ -44,7 +44,7 @@ for i in second['ANVALUE']:
 trans_text_inv_2 = [(translator.translate(str(i))).text for i in valutazione_inv_2] 
 
 
-trans_text_inv_partI = trans_text_inv_1 + trans_text_inv_2 + trans_text_inv_3 + trans_text_inv_4 + trans_text_inv_5 + trans_text_inv_6 + trans_text_inv_7 + trans_text_inv_8 + trans_text_inv_9          
+trans_text_inv_partI = trans_text_inv_1 + trans_text_inv_2  
 
 
 #Cleaning text data
